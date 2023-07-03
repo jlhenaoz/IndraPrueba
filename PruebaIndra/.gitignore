@@ -1,0 +1,9 @@
+/target/site/serenity
+/src/test/resources/driver/
+debug.log
+target/*
+*.class
+/target/
+/.metadata/
+/target/
+/phantomjsdriver.log
